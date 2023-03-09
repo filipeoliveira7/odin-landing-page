@@ -89,9 +89,9 @@ h1 {
 .middle-image img {
     width: 500px;
     height: 350px;
+    border-radius: 10px;
 }
 
-/* Content Part */
 
 .content {
     align-items: center;
@@ -99,7 +99,6 @@ h1 {
 
 .content-info {
     display: flex;
-    /* border: 1px solid gold; */
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -113,7 +112,7 @@ h1 {
     margin: 5px 20px 0px 20px;
 }
 
-/* Quotation Part */
+
 
 .quote {
     display: flex;
@@ -137,7 +136,7 @@ h1 {
     text-align: right;
 }
 
-/* Sign Up Part */
+
 .sign-up {
     background-color: #3882F6 ;
     margin: 50px 200px;
@@ -179,7 +178,7 @@ h3 {
     font-size: 15px;
 }
 
-/* Footer */
+
 
 .footer {
     background-color: #1F2937;
